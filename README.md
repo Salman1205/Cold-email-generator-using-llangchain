@@ -1,5 +1,5 @@
 ## 🚀 Overview
-The **Cold Email Generator** is a powerful AI-driven tool that automates the process of crafting personalized cold emails based on job descriptions. This project utilizes **LangChain**, **Streamlit**, and **Chromadb** to analyze job postings, extract relevant skills, and generate professional emails with links to your portfolio.
+A powerful AI-driven tool that automates the process of crafting personalized cold emails based on job descriptions. This project utilizes **LangChain**, **Streamlit**, and **Chromadb** to analyze job postings, extract relevant skills, and generate professional emails with links to your portfolio.
 
 ## 📌 Features
 - Extracts job descriptions from URLs.
