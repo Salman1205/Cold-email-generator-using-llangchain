@@ -71,17 +71,3 @@ This project is licensed under the **MIT License**.
 ---
 
 🚀 **Developed by [Salman1205](https://github.com/Salman1205)**
-
-
-
-write it in this format for my linkeding keep it short:
-Music Recommendation System
-Music Recommendation System
-A project that suggests similar songs by extracting and analyzing audio features using a neural network model, with additional features such as song lyrics display and a web interface.
-
-Functionality:
->Extracts MFCC (Mel-frequency cepstral coefficients) features from audio files and stores them in a MongoDB database.
->Trains a neural network model with the extracted features and evaluates its performance.
->Utilizes Apache Kafka for efficient data streaming and processing during feature extraction and model training.
->Built a website using Flask to interact with the recommendation system, allowing users to query for similar songs.
->Implements speech recognition and NLP to print song lyrics on the website, enhancing user experience.
